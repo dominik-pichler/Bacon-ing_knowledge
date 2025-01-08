@@ -92,8 +92,11 @@ Code and results can be found here:
 Code and results can be found here: 
 [Q&A](Q_and_A)
 
+## 5. Please make sense - Graph RAG-based QA Systems to the rescue
+TBD
 
-## 5. Compress me  - (Neural) Data-Compressors
+
+## 6. Compress me  - (Neural) Data-Compressors
 During the projects listed above, I worked with lossless compression-algorithms to reduce data sizes (and to identify symbolic Morphemes) and thereby implemented the following algorithms: 
 * [Shannon -  Fano encoding](https://github.com/dominik-pichler/Balmung/blob/main/utils/shannon_fano_coding.py)
    * Turned out as a pretty good start by losslessly compressing Kants *Critique of pure reason* by 55%
