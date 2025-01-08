@@ -102,7 +102,8 @@ During the projects listed above, I worked with lossless compression-algorithms 
    * Turned out as a pretty good start by losslessly compressing Kants *Critique of pure reason* by 55%
  
 * Neural Compressors:
-   * Variable Rate Semantic Compression
+   * Variable Rate Semantic Compression in images
+   
 
 
 
