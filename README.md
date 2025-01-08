@@ -73,6 +73,10 @@ The aim of this project is, to build exactly this navigation system by developin
 For a general understanding, a comprehensive list of modern topic modelling techniques can be found here: <br>
 [Modern Topic Modelling Approaches](ismails_guide_to_fishing/fish_me.md)
 
+In addtion, Graph-based Knowledge Representations as in Graph RAG might be helpful for this (in particual the Graph Community summaries) More on that soon. 
+
+
+
 ## 3.  Rank me if you can - Neural (Re-) Rankers
 **Question:** <br> How can i find the most relevant documents for a given endeavour, in a large pool of documents? 
 <br>
