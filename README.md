@@ -33,7 +33,8 @@ Thoughts and code about Information, Chaos and everything in between.
 - [How can it be found (and turned into knowledge?)](notes/quest_for_knowledge.md)
 - [How can it be used optimally to answer questions?](https://github.com/dominik-pichler/Balmung?tab=readme-ov-file#4-ask-me-anything---qa-system)
 - [What can't be known? - Is there unatainable Information ?](notes/the_unkown.md)
-  
+- How do the ideas of *Language*, *Perception* and *Information / Knowlege* connect/interplay? 
+
 This is a repo tries to gradually find more sophisticated answers to those questions, either through code or rambling style posts.
 Feel free to contact me if you're interested
 
